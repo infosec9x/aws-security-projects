@@ -1,17 +1,19 @@
-# 🔐 AWS Secrets Manager – Credential Protection Lab
+# 🔐 AWS Secrets Manager Lab
 
-This project implements secure secret management for cloud applications.
+This lab secures cloud application secrets and rotates credentials without hardcoding them.
 
-## 🧪 Tasks Performed
-- Deployed AWS Secrets Manager
-- Stored API keys and database credentials securely
-- Attached IAM roles to limit access to secrets
-- Automated secret rotation
+## ✅ Tasks Performed
+- Stored API keys and database credentials  
+- Attached IAM roles to restrict access  
+- Enabled automatic secret rotation  
+- Removed hardcoded secrets from source code
 
-## 🔧 Tools Used
-- AWS Secrets Manager
-- IAM Roles and Policies
-- Lambda (for rotation)
+## 🧰 Tools Used
+- AWS Secrets Manager  
+- IAM  
+- Lambda
 
-## 💡 Outcome
-Eliminated hard-coded secrets and enforced secure access and rotation in AWS workloads.
+## 💡 Outcome  
+Prevented secret exposure and improved credential hygiene through secure storage and rotation.
+
+➡️ [📄 View Full Report with Screenshots](./secrets-manager-detailed.md)
