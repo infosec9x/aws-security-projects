@@ -16,4 +16,5 @@ This lab secures cloud application secrets and rotates credentials without hardc
 ## 💡 Outcome  
 Prevented secret exposure and improved credential hygiene through secure storage and rotation.
 
-➡️ [📄 View Full Report with Screenshots](./secrets-manager-detailed.md)
+➡️ [📁 View Full Report with Screenshots](./Secrets-manager/SecretsManager-detailed.md)
+
